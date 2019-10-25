@@ -3,8 +3,6 @@
 
 This github is for you guys who interested in data mining as we are.
 
-![](header.png)
-
 ## Installation
 Please refer to one of the following language for data mining:
 - Python ( Most recommended )
@@ -21,15 +19,11 @@ Most problem will be solved with Python 3
 * 0.0.1
     * Add README.md 
 
-## Meta
+## Contributors
 
-Anwar Farihin – [@khalismurfid](https://twitter.com/khalismurfid) – khalismurfid@gmail.com
-Khalis Murfid – [@irfanamrl](https://twitter.com/irfanamrl) – mirfanamrullah@gmail.com
-Irfan Amrullah – [@t00rx](https://twitter.com/t00rx) – anwarifarihin@gmail.com
-
-
-
-[https://github.com/khalismurfid/9Awan-Data-Mining](https://github.com/khalismurfid/)
+- Anwar Farihin – [@khalismurfid](https://twitter.com/khalismurfid) – khalismurfid@gmail.com
+- Khalis Murfid – [@irfanamrl](https://twitter.com/irfanamrl) – mirfanamrullah@gmail.com
+- Irfan Amrullah – [@t00rx](https://twitter.com/t00rx) – anwarifarihin@gmail.com
 
 ## Contributing
 
