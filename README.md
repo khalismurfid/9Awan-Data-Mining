@@ -1,8 +1,6 @@
 # Data Mining Problem and Solution
 > Our solution may not be the best one because we are still young, dumb, and broke. 
 
-[![Downloads Stats][npm-downloads]][npm-url]
-
 This github is for you guys who interested in data mining as we are.
 
 ![](header.png)
