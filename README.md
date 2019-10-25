@@ -14,8 +14,8 @@ Please refer to one of the following language for data mining:
 1. Make local folder to root
 2. Read readme on each problem first.
 3. If datasets is not provided, download from readme and put it on your local folder so it won't be pushed ( Datasets too big )
-4. Make your own solution and put it on new folder named "<language-yourname>". 
-   >Example : Python-Khalis
+4. Make your own solution and put it on new folder named "language-yourname". 
+   >Example : python-khalis
 
 ## Release History
 
