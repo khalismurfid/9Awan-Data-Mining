@@ -10,7 +10,7 @@ Please refer to one of the following language for data mining:
 - Java
 
 
-## Usage example
+## How to make solutions
 1. Make local folder to root
 2. Read readme on each problem first.
 3. If datasets is not provided, download from readme and put it on your local folder so it won't be pushed ( Datasets too big )
@@ -32,7 +32,7 @@ Please refer to one of the following language for data mining:
 
 1. Fork it (<https://github.com/khalismurfid/9Awan-Data-Mining/>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`) The changes must follow "How to make solutions" rules.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
